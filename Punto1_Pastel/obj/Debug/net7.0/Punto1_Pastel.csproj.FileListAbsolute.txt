@@ -1,0 +1,15 @@
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\bin\Debug\net7.0\Punto1_Pastel.exe
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\bin\Debug\net7.0\Punto1_Pastel.deps.json
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\bin\Debug\net7.0\Punto1_Pastel.runtimeconfig.json
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\bin\Debug\net7.0\Punto1_Pastel.dll
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\bin\Debug\net7.0\Punto1_Pastel.pdb
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.csproj.AssemblyReference.cache
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.AssemblyInfoInputs.cache
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.AssemblyInfo.cs
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.csproj.CoreCompileInputs.cache
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.dll
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\refint\Punto1_Pastel.dll
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.pdb
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\Punto1_Pastel.genruntimeconfig.cache
+C:\Users\poter\Documents\Ejercicos .Net\Punto1_Pastel\obj\Debug\net7.0\ref\Punto1_Pastel.dll
